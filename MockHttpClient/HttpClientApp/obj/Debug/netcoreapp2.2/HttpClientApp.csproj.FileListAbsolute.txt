@@ -1,0 +1,13 @@
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\bin\Debug\netcoreapp2.2\HttpClientApp.deps.json
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\bin\Debug\netcoreapp2.2\HttpClientApp.runtimeconfig.json
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\bin\Debug\netcoreapp2.2\HttpClientApp.runtimeconfig.dev.json
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\bin\Debug\netcoreapp2.2\HttpClientApp.dll
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\bin\Debug\netcoreapp2.2\HttpClientApp.pdb
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.csproj.CoreCompileInputs.cache
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.RazorAssemblyInfo.cache
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.RazorAssemblyInfo.cs
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.AssemblyInfoInputs.cache
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.AssemblyInfo.cs
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.RazorTargetAssemblyInfo.cache
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.dll
+D:\Projects\MyProject\Mock HttpClient\MockHttpClient\HttpClientApp\obj\Debug\netcoreapp2.2\HttpClientApp.pdb
